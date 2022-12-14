@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+body{
+    width: 1000px;
+    margin: auto;
+}
+button{
+    cursor: pointer;
+    background: none;
+    border: 1px solid black;
+    outline: none;
+}
+
+#inp1 {
+    width: 200px;
+    height: 40px;
+    margin: 20px;
+    border-radius: 10px;
+    border: 1px solid black;
+    padding: 10px;
+    outline: none;
+}
+
+#b{
+    cursor: pointer;
+    background: rgb(151, 131, 88);
+    border: 1px solid black;
+    height: 40px;
+    width: 50px;
+    border-radius: 10px;
+
+}
+
+
+ul {
+    padding-left: 15px;
+}
